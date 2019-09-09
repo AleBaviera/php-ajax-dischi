@@ -28,6 +28,16 @@
     <title>dischi</title>
   </head>
   <body>
+    <div class="container">
 
+    </div>
+    <script id="albums-template" type="text/x-handlebars-template">
+      <div class="author">
+        <h1>{{author}}</h1>
+        <h3 class="title">{{title}}</h3>
+        <h3 class="year">{{year}}</h3>
+        <div class="poster">{{poster}}</div>
+      </div>
+    </script>
   </body>
 </html>
