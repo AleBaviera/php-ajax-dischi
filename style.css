@@ -16,5 +16,16 @@
 
   padding: 50px 25px;
 
-  overflow: hidden;
+  /* overflow: hidden; */
+
+  display: flex;
+  flex-direction: row;
+}
+.poster{
+  background-image: url('img/theWall.jpeg');
+  background-size: contain;
+  width: 200px;
+  height: auto;
+
+
 }

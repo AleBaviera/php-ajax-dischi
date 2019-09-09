@@ -16,7 +16,7 @@ function getAlbums(){
 }
 
 function printAlbums(data){
-  
+
   var source   = document.getElementById("albums-template").innerHTML;
   var template = Handlebars.compile(source);
 
@@ -26,8 +26,7 @@ function printAlbums(data){
     var context = {
       author: album.author,
       title: album.title,
-      year: album.year,
-      poster: album.poster
+      year: album.year
     };
     var html = template(context);
     $('.container').append(html);

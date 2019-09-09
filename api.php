@@ -7,32 +7,27 @@
       [
           'author' => 'Pink Floyd',
           'title' => 'The wall',
-          'year' => 1979,
-          'poster' => 'img/theWall.jpeg'
+          'year' => 1979
       ],
       [
           'author' => 'Pink Floyd',
           'title' => 'The wall',
-          'year' => 1979,
-          'poster' => 'img/theWall.jpeg'
+          'year' => 1979
       ],
       [
           'author' => 'Pink Floyd',
           'title' => 'The wall',
-          'year' => 1979,
-          'poster' => 'img/theWall.jpeg'
+          'year' => 1979
       ],
       [
           'author' => 'Pink Floyd',
           'title' => 'The wall',
-          'year' => 1979,
-          'poster' => 'img/theWall.jpeg'
+          'year' => 1979
       ],
       [
           'author' => 'Pink Floyd',
           'title' => 'The wall',
-          'year' => 1979,
-          'poster' => 'img/theWall.jpeg'
+          'year' => 1979
       ],
 
   ];
